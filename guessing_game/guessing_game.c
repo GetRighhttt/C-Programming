@@ -14,7 +14,8 @@ int main() {
 	int randomNumber = rand();
 
 	printf("%d\n", randomNumber);
-
+	printf("Game Ending...\n");
+	printf("Disconnecting...\n");
 	printf("**********************************************\n");
 
 
